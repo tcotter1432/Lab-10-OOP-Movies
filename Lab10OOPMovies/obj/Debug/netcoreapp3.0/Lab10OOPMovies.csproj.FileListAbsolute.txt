@@ -1,0 +1,11 @@
+C:\Users\Tristan\source\repos\Lab10OOPMovies\Lab10OOPMovies\bin\Debug\netcoreapp3.0\Lab10OOPMovies.exe
+C:\Users\Tristan\source\repos\Lab10OOPMovies\Lab10OOPMovies\bin\Debug\netcoreapp3.0\Lab10OOPMovies.deps.json
+C:\Users\Tristan\source\repos\Lab10OOPMovies\Lab10OOPMovies\bin\Debug\netcoreapp3.0\Lab10OOPMovies.runtimeconfig.json
+C:\Users\Tristan\source\repos\Lab10OOPMovies\Lab10OOPMovies\bin\Debug\netcoreapp3.0\Lab10OOPMovies.runtimeconfig.dev.json
+C:\Users\Tristan\source\repos\Lab10OOPMovies\Lab10OOPMovies\bin\Debug\netcoreapp3.0\Lab10OOPMovies.dll
+C:\Users\Tristan\source\repos\Lab10OOPMovies\Lab10OOPMovies\bin\Debug\netcoreapp3.0\Lab10OOPMovies.pdb
+C:\Users\Tristan\source\repos\Lab10OOPMovies\Lab10OOPMovies\obj\Debug\netcoreapp3.0\Lab10OOPMovies.csprojAssemblyReference.cache
+C:\Users\Tristan\source\repos\Lab10OOPMovies\Lab10OOPMovies\obj\Debug\netcoreapp3.0\Lab10OOPMovies.AssemblyInfoInputs.cache
+C:\Users\Tristan\source\repos\Lab10OOPMovies\Lab10OOPMovies\obj\Debug\netcoreapp3.0\Lab10OOPMovies.AssemblyInfo.cs
+C:\Users\Tristan\source\repos\Lab10OOPMovies\Lab10OOPMovies\obj\Debug\netcoreapp3.0\Lab10OOPMovies.dll
+C:\Users\Tristan\source\repos\Lab10OOPMovies\Lab10OOPMovies\obj\Debug\netcoreapp3.0\Lab10OOPMovies.pdb
